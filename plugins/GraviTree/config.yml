@@ -1,0 +1,6 @@
+All Players Have Permission: true
+Messages:
+  Chop Toggle Info: You can toggle falling tree blocks with /TreesFall.
+  Chop Toggle On: Falling tree blocks enabled.
+  Chop Toggle Off: Falling tree blocks disabled.
+Players Can Disable: true
